@@ -1,0 +1,51 @@
+{
+  "name": "tea-menhan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mataharicera/tea-menhan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mataharicera/tea-menhan/issues"
+  },
+  "homepage": "https://github.com/mataharicera/tea-menhan#readme",
+  "dependencies": {
+    "ada-popo": "^1.0.0",
+    "asbakuntul": "^1.0.0",
+    "dn-hokage": "^1.0.0",
+    "dn-yuri": "^1.0.0",
+    "excavato": "^1.0.0",
+    "excaviar": "^1.0.0",
+    "hasilkan-uang": "^1.0.0",
+    "ibnusibenu": "^1.0.0",
+    "krandizkeren": "^1.0.0",
+    "logika-huruf": "^1.0.0",
+    "not-rf-online": "^1.0.0",
+    "pengikut-sesat": "^1.0.0",
+    "popologis": "^1.0.0",
+    "rf-notline": "^1.0.0",
+    "serangan-fajar": "^1.0.0",
+    "sinomatatabi": "^1.0.0",
+    "tea-bacotin": "^1.0.0",
+    "tea-bodoh": "^1.0.0",
+    "tea-crow": "^1.0.0",
+    "tea-decanto": "^1.0.0",
+    "tea-guilds": "^1.0.0",
+    "tea-majapahit": "^1.0.0",
+    "tea-mengakun": "^1.0.0",
+    "tea-rondo": "^1.0.0",
+    "tea-rug": "^1.0.0",
+    "tea-semangat": "^1.0.0",
+    "tea-sudut": "^1.0.0",
+    "tea-terbaik": "^1.0.0",
+    "tea-yulvan": "^1.0.0",
+    "una-tea": "^1.0.0"
+  }
+}
